@@ -2,19 +2,19 @@
 
 ## Comandos
 
-## etiquetar imagen
+## Etiquetar imagen
 
 ```
 docker tag imagenlocal:etiqueta usuarioremoto/imagenremota:etiqueta
 ```
 
-## subir imagen
+## Subir imagen
 
 ```
 docker push usuarioremoto/imagenremota:etiqueta
 ```
 
-## descargar imagen
+## Descargar imagen
 
 ```
 docker pull usuarioremoto/imagen:etiqueta
